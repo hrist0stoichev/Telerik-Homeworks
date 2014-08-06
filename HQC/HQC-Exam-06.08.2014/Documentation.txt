@@ -1,0 +1,38 @@
+Design pattern: Simple Factory
+	* 
+
+Design pattern: Strategy
+	implemented
+
+Design pattern: Template Method
+	implemented
+
+Design pattern: Abstract factory
+	implemented
+
+Design pattern: Composite
+	implemented 
+
+Design pattern: Mediator
+	* 
+
+Found bottlenecks:
+	two bottlenecks found
+
+Found bugs:
+	three bugs found
+
+Single responsibility principle
+	every class is working for itself 
+
+Open/closed principle
+	 integrated
+
+Liskov substitution principle
+	everything could be changed with it parent 
+
+Interface segregation principle
+	integrated
+
+Dependency inversion principle
+	everything in the class 

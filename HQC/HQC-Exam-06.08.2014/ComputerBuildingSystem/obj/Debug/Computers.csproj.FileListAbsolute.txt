@@ -1,0 +1,14 @@
+C:\Users\Hristo\Desktop\Exam-HQC-2014\Niki\obj\Debug\Computers.exe
+C:\Users\Hristo\Desktop\Exam-HQC-2014\Niki\obj\Debug\Computers.pdb
+C:\Users\Hristo\Desktop\Exam-HQC-2014\Niki\bin\Debug\Computers.exe.config
+C:\Users\Hristo\Desktop\Exam-HQC-2014\Niki\bin\Debug\Computers.exe
+C:\Users\Hristo\Desktop\Exam-HQC-2014\Niki\bin\Debug\Computers.pdb
+C:\Users\Hristo\Desktop\Exam-HQC-2014\Niki\bin\Debug\System.Collections.Generic.dll
+C:\Users\Hristo\Desktop\Exam-HQC-2014\Niki\obj\Debug\Computers.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Desktop\HQC-Exam-06.08.2014\ComputerBuildingSystem\bin\Debug\Computers.exe.config
+C:\Users\Hristo\Desktop\HQC-Exam-06.08.2014\ComputerBuildingSystem\obj\Debug\Computers.exe
+C:\Users\Hristo\Desktop\HQC-Exam-06.08.2014\ComputerBuildingSystem\obj\Debug\Computers.pdb
+C:\Users\Hristo\Desktop\HQC-Exam-06.08.2014\ComputerBuildingSystem\bin\Debug\Computers.exe
+C:\Users\Hristo\Desktop\HQC-Exam-06.08.2014\ComputerBuildingSystem\bin\Debug\Computers.pdb
+C:\Users\Hristo\Desktop\HQC-Exam-06.08.2014\ComputerBuildingSystem\bin\Debug\System.Collections.Generic.dll
+C:\Users\Hristo\Desktop\HQC-Exam-06.08.2014\ComputerBuildingSystem\obj\Debug\Computers.csprojResolveAssemblyReference.cache
