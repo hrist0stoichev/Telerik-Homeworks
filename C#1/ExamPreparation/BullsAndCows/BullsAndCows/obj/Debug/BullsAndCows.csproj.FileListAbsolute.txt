@@ -1,6 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe.config
-C:\Users\User\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe
-C:\Users\User\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.pdb
-C:\Users\User\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.exe
-C:\Users\User\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.pdb

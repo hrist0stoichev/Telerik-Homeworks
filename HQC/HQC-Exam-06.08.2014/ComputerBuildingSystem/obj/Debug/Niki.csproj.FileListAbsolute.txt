@@ -1,7 +1,0 @@
-C:\Users\Hristo\Desktop\Exam-HQC-2014\Niki\obj\Debug\Niki.csprojResolveAssemblyReference.cache
-C:\Users\Hristo\Desktop\Exam-HQC-2014\Niki\bin\Debug\System.Collections.Generic.dll
-C:\Users\Hristo\Desktop\Exam-HQC-2014\Niki\bin\Debug\Computers.exe.config
-C:\Users\Hristo\Desktop\Exam-HQC-2014\Niki\bin\Debug\Computers.exe
-C:\Users\Hristo\Desktop\Exam-HQC-2014\Niki\bin\Debug\Computers.pdb
-C:\Users\Hristo\Desktop\Exam-HQC-2014\Niki\obj\Debug\Computers.exe
-C:\Users\Hristo\Desktop\Exam-HQC-2014\Niki\obj\Debug\Computers.pdb

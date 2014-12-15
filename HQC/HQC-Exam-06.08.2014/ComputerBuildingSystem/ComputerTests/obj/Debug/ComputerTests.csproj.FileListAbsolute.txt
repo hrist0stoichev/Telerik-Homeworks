@@ -1,7 +1,0 @@
-C:\Users\Hristo\Desktop\HQC-Exam-06.08.2014\ComputerBuildingSystem\ComputerTests\bin\Debug\ComputerTests.dll
-C:\Users\Hristo\Desktop\HQC-Exam-06.08.2014\ComputerBuildingSystem\ComputerTests\bin\Debug\ComputerTests.pdb
-C:\Users\Hristo\Desktop\HQC-Exam-06.08.2014\ComputerBuildingSystem\ComputerTests\bin\Debug\Computers.exe
-C:\Users\Hristo\Desktop\HQC-Exam-06.08.2014\ComputerBuildingSystem\ComputerTests\bin\Debug\Computers.pdb
-C:\Users\Hristo\Desktop\HQC-Exam-06.08.2014\ComputerBuildingSystem\ComputerTests\obj\Debug\ComputerTests.csprojResolveAssemblyReference.cache
-C:\Users\Hristo\Desktop\HQC-Exam-06.08.2014\ComputerBuildingSystem\ComputerTests\obj\Debug\ComputerTests.dll
-C:\Users\Hristo\Desktop\HQC-Exam-06.08.2014\ComputerBuildingSystem\ComputerTests\obj\Debug\ComputerTests.pdb
