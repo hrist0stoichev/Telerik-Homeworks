@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\fire\fire\bin\Debug\fire.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\fire\fire\bin\Debug\fire.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\fire\fire\bin\Debug\fire.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\fire\fire\obj\Debug\fire.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\fire\fire\obj\Debug\fire.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\fire\fire\obj\Debug\fire.pdb
